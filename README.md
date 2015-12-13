@@ -1,4 +1,4 @@
-pgp-zimlet-binaries
+pgp-zimlet-test-reports
 ===================
 
-Pre-build binaries for Zimbra OpenPGP Zimlet
+Test reports for Zimbra OpenPGP Zimlet
